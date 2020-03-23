@@ -20,13 +20,13 @@
     <a href="https://github.com/qawolf/qawolf/projects/4">🗺️ Roadmap</a>
 </p>
 
-<img src="https://storage.googleapis.com/docs.qawolf.com/website/create.gif">
+<a href="https://www.youtube.com/watch?v=e8tfR1Ey9DI"><img src="https://storage.googleapis.com/docs.qawolf.com/website/create.gif"></a>
 
 <br/>
 
 ## 🖥️ Install
 
-[Documentation](https://docs.qawolf.com/docs/install)
+[📖 Docs](https://docs.qawolf.com/docs/install) | [📺 Video Tutorial](https://www.youtube.com/watch?v=e8tfR1Ey9DI)
 
 <br />
 
@@ -63,7 +63,7 @@ This will install `qawolf`, `jest` and `playwright` as dev dependencies and crea
 
 ## 🎨 Create a test
 
-[Documentation](https://docs.qawolf.com/docs/create_a_test)
+[📖 Docs](https://docs.qawolf.com/docs/create_a_test) | [📺 Video Tutorial](https://www.youtube.com/watch?v=e8tfR1Ey9DI)
 
 <br />
 
@@ -98,7 +98,7 @@ As your test is created:
 
 ## ✅ Run your tests
 
-[Documentation](https://docs.qawolf.com/docs/run_tests_locally)
+[📖 Docs](https://docs.qawolf.com/docs/run_tests_locally) | [📺 Video Tutorial](https://www.youtube.com/watch?v=e8tfR1Ey9DI)
 
 <br />
 
